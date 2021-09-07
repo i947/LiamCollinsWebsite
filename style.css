@@ -6,6 +6,15 @@
     font-family: 'Courier New', Courier, monospace;
     transition: 0.5s;
 }
+/* :root
+{
+    --bg-color: #04000a;
+    --text-color: #ffffff;
+    --primary1: #d40071;
+    --primary2: #d43500;
+    --scrollY: -45deg;
+    --scrollYneg: -45deg;
+} */
 :root
 {
     --bg-color: #04000a;
